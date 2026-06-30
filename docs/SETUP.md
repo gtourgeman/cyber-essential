@@ -1,4 +1,4 @@
-# 📖 CyberSentinel v3.0 - Detailed Setup Guide
+# 📖 Cyber-Essential-AI-1.0 - Detailed Setup Guide
 
 This guide assumes **zero coding knowledge**. Every step is explained.
 
@@ -6,7 +6,7 @@ This guide assumes **zero coding knowledge**. Every step is explained.
 
 ## What is This?
 
-CyberSentinel AI is a cybersecurity platform with 33 security tools powered by AI. Think of it as having a senior security engineer available 24/7 that can:
+Cyber Essential AI is a cybersecurity platform with 33 security tools powered by AI. Think of it as having a senior security engineer available 24/7 that can:
 - Generate detection rules (SIEM, YARA, Sigma, Snort)
 - Analyze threats and vulnerabilities
 - Run compliance audits (CIS, NIST, HIPAA, PCI-DSS)
@@ -47,7 +47,7 @@ Your Computer
 - Go to [git-scm.com](https://git-scm.com/)
 - Download and install (use all default settings)
 
-### 3. Download CyberSentinel
+### 3. Download CyberEssential AI
 
 Open a **terminal**:
 - **Windows:** Press `Win + R`, type `cmd`, press Enter
