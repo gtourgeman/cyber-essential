@@ -1,7 +1,7 @@
 FROM debian:bookworm-slim
 
-LABEL maintainer="CyberSentinel AI - SolventCyber.com"
-LABEL description="Security tools sandbox for CyberSentinel AI"
+LABEL maintainer="CyberEssential AI 1.0"
+LABEL description="Security tools sandbox for CyberEssential AI"
 
 # Avoid interactive prompts
 ENV DEBIAN_FRONTEND=noninteractive
