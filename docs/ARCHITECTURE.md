@@ -1,4 +1,4 @@
-# 🏗️ CyberSentinel v3.0 - Architecture
+# 🏗️ Cyber-Essential-AI-1.0 - Architecture
 
 ## Overview
 
